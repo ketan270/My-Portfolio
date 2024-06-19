@@ -28,7 +28,7 @@ const Contact = () => {
           />
           <Image
             src={heartIcon}
-            alt="Heart Icon"
+            alt="HeartIcon"
             className="heartbeat md:-bottom-18 absolute -bottom-5 left-64 w-[120px] sm:-bottom-14 sm:left-[40%] md:left-[40%] md:w-[150px] lg:-bottom-16 lg:left-[42%] lg:w-[230px]"
           />
         </div>
