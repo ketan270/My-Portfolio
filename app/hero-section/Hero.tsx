@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href=""
+            href="https://drive.google.com/file/d/1WPu1Qoxg7AQQTFBis4YHG-mv6pkeLZQo/view"
             target="_blank"
             aria-label="View Resume"
           >
@@ -106,14 +106,14 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Frontend Engineer and Product Designer, prev at{" "}
+            Frontend Engineer and Product Designer, studying at{" "}
             <Link
               href=""
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Mono Website"
             >
-              Mono,
+              Chitkara University,
             </Link> currently available for work.
           </p>
         </motion.div>
