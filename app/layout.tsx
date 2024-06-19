@@ -55,10 +55,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Victor Williams — Frontend Engineer",
+    title: "Ketan Sharma — Frontend Engineer",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
+    "Frontend Engineer and Product Designer. Focused on interfaces and experiences, working remotely from Chandigarh,India.",
+    creator: "ketan270",
     creatorId: "1243720976552144897",
     images: [
       "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",

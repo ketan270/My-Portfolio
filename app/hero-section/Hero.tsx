@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1Mmwl-FRGPm5QVe3AjtukJr_Jpc366Ear/view"
+            href=""
             target="_blank"
             aria-label="View Resume"
           >
@@ -34,7 +34,7 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://github.com/victorcodess"
+            href="https://github.com/ketan270"
             target="_blank"
             aria-label="View GitHub Profile"
           >
@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+            href="https://www.linkedin.com/in/ketan-sharma-a40432203/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
@@ -58,7 +58,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/victorwill__"
+            href="https://twitter.com/KETANSHARMA2005"
             target="_blank"
             aria-label="View Twitter Profile"
           >
@@ -77,7 +77,7 @@ const Hero = () => {
           className={`relative flex flex-col items-center justify-center ${monaSans.className}   `}
         >
           <AnimatedWords
-            title="VICTOR WILLIAMS"
+            title="KETAN SHARMA"
             style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4"
           />
           <motion.div
@@ -108,7 +108,7 @@ const Hero = () => {
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
             Frontend Engineer and Product Designer, prev at{" "}
             <Link
-              href="https://www.mono.co/"
+              href=""
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Mono Website"
@@ -123,8 +123,8 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            Focused on interfaces and experiences, working remotely from Lagos,
-            Nigeria.
+            Focused on interfaces and experiences, working remotely from Chandigarh,
+            India.
           </p>
         </motion.div>
       </div>
