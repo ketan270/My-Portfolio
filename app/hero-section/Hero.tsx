@@ -108,7 +108,7 @@ const Hero = () => {
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
             Frontend Engineer and Product Designer, studying at{" "}
             <Link
-              href=""
+              href="https://www.chitkara.edu.in/"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Mono Website"
