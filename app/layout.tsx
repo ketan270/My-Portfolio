@@ -42,16 +42,7 @@ export const metadata: Metadata = {
     "Frontend Engineer and Product Designer. Focused on interfaces and experiences, working remotely from Chandigarh,India.",
     url: "https://myportfolio2120.netlify.app/",
     siteName: "myportfolio2120.netlify.app/",
-    images: [
-      {
-        width: 1200,
-        height: 630,
-        alt: "Ketan Sharma — Frontend Engineer",
       },
-    ],
-    locale: "en-US",
-    type: "website",
-  },
   twitter: {
     card: "summary_large_image",
     title: "Ketan Sharma — Frontend Engineer",
