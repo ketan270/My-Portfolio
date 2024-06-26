@@ -29,7 +29,7 @@ export const devProjects = [
     technologies: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/ketan270/ISRO-web",
     demo: "https://isro-website1.netlify.app/",
-    image: require(".//../../public/projects/Isro.png"),
+    image: require(".//../../public/projects/ISRO.webp"),
     available: true,
   },
   {
