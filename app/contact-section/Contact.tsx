@@ -52,7 +52,7 @@ const Contact = () => {
               >
                 <AnimatedBody text={"Send me an email"} className={"w-[190px] bor der md:w-[170px] pr-[40px] md:pr-0"} />
               </Link>
-              <AnimatedBody
+              {/* <AnimatedBody
                 text={"or"}
                 className={
                   "-mb-1 inline-block overflow-hidden bor der ml-2 md:-ml-[8px] sm:-mb-2 md:-mb-3 lg:-mb-4"
@@ -64,7 +64,7 @@ const Contact = () => {
                 aria-label="Send me an email"
                 className="mt-1 w-[110px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:w-[120px] md:-ml-[3px] bor der lg:mt-4"
               >
-                <AnimatedBody text={"Book a call"} className={"w-[110px] md:w-[120px]"} />
+                <AnimatedBody text={"Book a call"} className={"w-[110px] md:w-[120px]"} /> */}
               </Link>
             </div>
           </div>
